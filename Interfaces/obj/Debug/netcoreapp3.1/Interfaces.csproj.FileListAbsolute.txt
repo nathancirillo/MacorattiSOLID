@@ -1,0 +1,14 @@
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.AssemblyReference.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache

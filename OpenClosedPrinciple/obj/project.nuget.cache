@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jR3PdumEVwNErubTUTA5oVkCAo9C/+mbmDmJjiFsZKBjoBtm9Dty2m6vmJed3YI74AH7UCl02NguJ12xu6ktuw==",
+  "success": true,
+  "projectFilePath": "E:\\Repositórios GITHUB\\Macoratti\\MacorattiSOLID\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathan Cirillo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

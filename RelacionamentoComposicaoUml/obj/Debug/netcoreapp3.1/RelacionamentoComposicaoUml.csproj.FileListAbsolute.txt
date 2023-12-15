@@ -1,0 +1,14 @@
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoComposicaoUml\bin\Debug\netcoreapp3.1\RelacionamentoComposicaoUml.exe
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoComposicaoUml\bin\Debug\netcoreapp3.1\RelacionamentoComposicaoUml.deps.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoComposicaoUml\bin\Debug\netcoreapp3.1\RelacionamentoComposicaoUml.runtimeconfig.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoComposicaoUml\bin\Debug\netcoreapp3.1\RelacionamentoComposicaoUml.runtimeconfig.dev.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoComposicaoUml\bin\Debug\netcoreapp3.1\RelacionamentoComposicaoUml.dll
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoComposicaoUml\bin\Debug\netcoreapp3.1\RelacionamentoComposicaoUml.pdb
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoComposicaoUml\obj\Debug\netcoreapp3.1\RelacionamentoComposicaoUml.csproj.AssemblyReference.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoComposicaoUml\obj\Debug\netcoreapp3.1\RelacionamentoComposicaoUml.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoComposicaoUml\obj\Debug\netcoreapp3.1\RelacionamentoComposicaoUml.AssemblyInfoInputs.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoComposicaoUml\obj\Debug\netcoreapp3.1\RelacionamentoComposicaoUml.AssemblyInfo.cs
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoComposicaoUml\obj\Debug\netcoreapp3.1\RelacionamentoComposicaoUml.csproj.CoreCompileInputs.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoComposicaoUml\obj\Debug\netcoreapp3.1\RelacionamentoComposicaoUml.dll
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoComposicaoUml\obj\Debug\netcoreapp3.1\RelacionamentoComposicaoUml.pdb
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoComposicaoUml\obj\Debug\netcoreapp3.1\RelacionamentoComposicaoUml.genruntimeconfig.cache

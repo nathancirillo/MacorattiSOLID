@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e7X0oc3oQcBE3kLSREz1w/vtCl4ova0W1WxbrC88udgOFSpTF8zSUyiaaV8iLoyx6G6L1zeoJrAmca3hhj82TQ==",
+  "success": true,
+  "projectFilePath": "E:\\Repositórios GITHUB\\Macoratti\\MacorattiSOLID\\MetodosEstaticos\\MetodosEstaticos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathan Cirillo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

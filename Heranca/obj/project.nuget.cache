@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kxVCo40EqF2ROXcOfsKBHDpEWqlwFw4DoPyG3Wgljl7JaheMwhGuW6lcjvPwgBIZz+xSxaWTRJcdho0VK2nB/Q==",
+  "success": true,
+  "projectFilePath": "E:\\Repositórios GITHUB\\Macoratti\\MacorattiSOLID\\Heranca\\Heranca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathan Cirillo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

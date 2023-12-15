@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KCXlLHUg0AsRicj7RwvKqB98gPAproaWZcKtSiNzn0uHZdsE7gpsZaSoa2Hw+DXQfUo9jzxt5x9WfY5D4K6KIA==",
+  "success": true,
+  "projectFilePath": "E:\\Repositórios GITHUB\\Macoratti\\MacorattiSOLID\\InterfacesVantagens\\InterfacesVantagens.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathan Cirillo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

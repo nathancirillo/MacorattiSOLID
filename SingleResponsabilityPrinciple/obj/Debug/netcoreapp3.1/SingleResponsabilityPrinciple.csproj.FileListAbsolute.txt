@@ -1,0 +1,14 @@
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\SingleResponsabilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsabilityPrinciple.exe
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\SingleResponsabilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsabilityPrinciple.deps.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\SingleResponsabilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsabilityPrinciple.runtimeconfig.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\SingleResponsabilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsabilityPrinciple.runtimeconfig.dev.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\SingleResponsabilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsabilityPrinciple.dll
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\SingleResponsabilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsabilityPrinciple.pdb
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\SingleResponsabilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsabilityPrinciple.csproj.AssemblyReference.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\SingleResponsabilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsabilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\SingleResponsabilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsabilityPrinciple.AssemblyInfoInputs.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\SingleResponsabilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsabilityPrinciple.AssemblyInfo.cs
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\SingleResponsabilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsabilityPrinciple.csproj.CoreCompileInputs.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\SingleResponsabilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsabilityPrinciple.dll
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\SingleResponsabilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsabilityPrinciple.pdb
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\SingleResponsabilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsabilityPrinciple.genruntimeconfig.cache

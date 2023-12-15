@@ -1,0 +1,13 @@
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipleISP\bin\Debug\netcoreapp3.1\PrincipleISP.exe
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipleISP\bin\Debug\netcoreapp3.1\PrincipleISP.deps.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipleISP\bin\Debug\netcoreapp3.1\PrincipleISP.runtimeconfig.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipleISP\bin\Debug\netcoreapp3.1\PrincipleISP.runtimeconfig.dev.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipleISP\bin\Debug\netcoreapp3.1\PrincipleISP.dll
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipleISP\bin\Debug\netcoreapp3.1\PrincipleISP.pdb
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipleISP\obj\Debug\netcoreapp3.1\PrincipleISP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipleISP\obj\Debug\netcoreapp3.1\PrincipleISP.AssemblyInfoInputs.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipleISP\obj\Debug\netcoreapp3.1\PrincipleISP.AssemblyInfo.cs
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipleISP\obj\Debug\netcoreapp3.1\PrincipleISP.csproj.CoreCompileInputs.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipleISP\obj\Debug\netcoreapp3.1\PrincipleISP.dll
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipleISP\obj\Debug\netcoreapp3.1\PrincipleISP.pdb
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipleISP\obj\Debug\netcoreapp3.1\PrincipleISP.genruntimeconfig.cache

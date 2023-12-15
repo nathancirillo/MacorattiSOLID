@@ -1,0 +1,14 @@
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.exe
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.deps.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.runtimeconfig.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.runtimeconfig.dev.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.dll
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.pdb
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.csproj.AssemblyReference.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.AssemblyInfoInputs.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.AssemblyInfo.cs
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.dll
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.pdb
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.genruntimeconfig.cache

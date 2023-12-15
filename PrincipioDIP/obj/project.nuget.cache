@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F59HNaskdaoPjIlQkXPuGZFuDvY6VCvEYFd+dhPPZ9HK9BFbwPMbqqAvRmiyMWYifgGymzjkg3ofmbEoDwKtkQ==",
+  "success": true,
+  "projectFilePath": "E:\\Repositórios GITHUB\\Macoratti\\MacorattiSOLID\\PrincipioDIP\\PrincipioDIP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathan Cirillo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

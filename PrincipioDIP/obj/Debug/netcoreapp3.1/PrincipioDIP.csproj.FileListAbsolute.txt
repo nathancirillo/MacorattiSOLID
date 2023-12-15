@@ -1,0 +1,13 @@
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipioDIP\bin\Debug\netcoreapp3.1\PrincipioDIP.exe
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipioDIP\bin\Debug\netcoreapp3.1\PrincipioDIP.deps.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipioDIP\bin\Debug\netcoreapp3.1\PrincipioDIP.runtimeconfig.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipioDIP\bin\Debug\netcoreapp3.1\PrincipioDIP.runtimeconfig.dev.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipioDIP\bin\Debug\netcoreapp3.1\PrincipioDIP.dll
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipioDIP\bin\Debug\netcoreapp3.1\PrincipioDIP.pdb
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipioDIP\obj\Debug\netcoreapp3.1\PrincipioDIP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipioDIP\obj\Debug\netcoreapp3.1\PrincipioDIP.AssemblyInfoInputs.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipioDIP\obj\Debug\netcoreapp3.1\PrincipioDIP.AssemblyInfo.cs
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipioDIP\obj\Debug\netcoreapp3.1\PrincipioDIP.csproj.CoreCompileInputs.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipioDIP\obj\Debug\netcoreapp3.1\PrincipioDIP.dll
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipioDIP\obj\Debug\netcoreapp3.1\PrincipioDIP.pdb
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\PrincipioDIP\obj\Debug\netcoreapp3.1\PrincipioDIP.genruntimeconfig.cache

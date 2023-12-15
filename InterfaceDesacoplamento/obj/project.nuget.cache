@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0isFMot0cMkTz88qjTrjYHN8vi4SMA4B88Y9mmHPdaEp34OeBap8Ks4aBUZlua/65sqvGg1sG5+oONFU/FzhWg==",
+  "success": true,
+  "projectFilePath": "E:\\Repositórios GITHUB\\Macoratti\\MacorattiSOLID\\InterfaceDesacoplamento\\InterfacesDesacoplamento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathan Cirillo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

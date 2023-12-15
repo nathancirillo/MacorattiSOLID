@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ztqRo4cPnhDQJbiVfNEo8+0IiufGtBwjXJCXGqai/2Uxk/u50D7xvtb8RHDJ6zvXmZS8ONWVpykNHqFRvp40DQ==",
+  "success": true,
+  "projectFilePath": "E:\\Repositórios GITHUB\\Macoratti\\MacorattiSOLID\\CriandoDiagramaClasse\\CriandoDiagramaClasse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathan Cirillo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

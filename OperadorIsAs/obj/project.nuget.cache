@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bD+qMOvkVBMYCtuMsI0mJsN0ENV91dD0Sxq8416G/qqY2+tPR6fba46rHN+K9j7evcqCkJErSkBvy5/tfO7Ckg==",
+  "success": true,
+  "projectFilePath": "E:\\Repositórios GITHUB\\Macoratti\\MacorattiSOLID\\OperadorIsAs\\OperadorIsAs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathan Cirillo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UDK3qZy7LiDOG4rLFtetJL1zxQ3TuOLKCsJXbI3fmXj1cfdb9Uj07RSl3BPL7tl7xTP8VhtnZ1cfYGwWWZC1tA==",
+  "success": true,
+  "projectFilePath": "E:\\Repositórios GITHUB\\Macoratti\\MacorattiSOLID\\AplicandoPrincipiosSOLID\\AplicandoPrincipiosSOLID.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathan Cirillo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

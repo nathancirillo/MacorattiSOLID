@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/VKgjG1asysfCcFwm9e4IrpUkLYMxc6nRthgHnwTDX8nfxYt5lSJiCw5EvnrlwXdmTFuiSac0UFth4M+uZrHzg==",
+  "success": true,
+  "projectFilePath": "E:\\Repositórios GITHUB\\Macoratti\\MacorattiSOLID\\MacorattiOOP\\MacorattiOOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathan Cirillo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

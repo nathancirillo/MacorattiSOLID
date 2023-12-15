@@ -1,0 +1,14 @@
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoAgregacaoUml\bin\Debug\netcoreapp3.1\RelacionamentoAgregacaoUml.exe
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoAgregacaoUml\bin\Debug\netcoreapp3.1\RelacionamentoAgregacaoUml.deps.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoAgregacaoUml\bin\Debug\netcoreapp3.1\RelacionamentoAgregacaoUml.runtimeconfig.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoAgregacaoUml\bin\Debug\netcoreapp3.1\RelacionamentoAgregacaoUml.runtimeconfig.dev.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoAgregacaoUml\bin\Debug\netcoreapp3.1\RelacionamentoAgregacaoUml.dll
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoAgregacaoUml\bin\Debug\netcoreapp3.1\RelacionamentoAgregacaoUml.pdb
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoAgregacaoUml\obj\Debug\netcoreapp3.1\RelacionamentoAgregacaoUml.csproj.AssemblyReference.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoAgregacaoUml\obj\Debug\netcoreapp3.1\RelacionamentoAgregacaoUml.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoAgregacaoUml\obj\Debug\netcoreapp3.1\RelacionamentoAgregacaoUml.AssemblyInfoInputs.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoAgregacaoUml\obj\Debug\netcoreapp3.1\RelacionamentoAgregacaoUml.AssemblyInfo.cs
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoAgregacaoUml\obj\Debug\netcoreapp3.1\RelacionamentoAgregacaoUml.csproj.CoreCompileInputs.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoAgregacaoUml\obj\Debug\netcoreapp3.1\RelacionamentoAgregacaoUml.dll
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoAgregacaoUml\obj\Debug\netcoreapp3.1\RelacionamentoAgregacaoUml.pdb
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\RelacionamentoAgregacaoUml\obj\Debug\netcoreapp3.1\RelacionamentoAgregacaoUml.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\AssemblyOne\obj\Debug\netcoreapp3.1\AssemblyOne.csproj.AssemblyReference.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\AssemblyOne\obj\Debug\netcoreapp3.1\AssemblyOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\AssemblyOne\obj\Debug\netcoreapp3.1\AssemblyOne.AssemblyInfoInputs.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\AssemblyOne\obj\Debug\netcoreapp3.1\AssemblyOne.AssemblyInfo.cs
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\AssemblyOne\obj\Debug\netcoreapp3.1\AssemblyOne.csproj.CoreCompileInputs.cache

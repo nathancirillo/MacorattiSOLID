@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K2kZ/WEo98INssvGGeMK/SwkfYQReARcS970Nc+P62biWA6ybY0ADTMKCKpzwX3DIXbQsC8iZSPptSPB2yttyQ==",
+  "success": true,
+  "projectFilePath": "E:\\Repositórios GITHUB\\Macoratti\\MacorattiSOLID\\Sobrecarga\\Sobrecarga.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathan Cirillo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qRdMm17gwqMG4FPCy4NWkzL1H27cvwyra/w3U1EwscS5B8DVEHqvala8KcPoagK8EzGkDvurRsfuKW326FrNEA==",
+  "success": true,
+  "projectFilePath": "E:\\Repositórios GITHUB\\Macoratti\\MacorattiSOLID\\RelacionamentoComposicaoUml\\RelacionamentoComposicaoUml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathan Cirillo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

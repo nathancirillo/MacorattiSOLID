@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qRrk6OXsBJZS9g+t6bG4qliKDqPmHXM6t6AjzO08WpQIhWdvb3750v4GEwkZsj3U5urty2A8M34SPgQqyzCWzA==",
+  "success": true,
+  "projectFilePath": "E:\\Repositórios GITHUB\\Macoratti\\MacorattiSOLID\\RelacionamentoAgregacaoUml\\RelacionamentoAgregacaoUml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathan Cirillo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

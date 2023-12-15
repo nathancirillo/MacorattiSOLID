@@ -1,0 +1,14 @@
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\AplicandoPrincipiosSOLID\bin\Debug\netcoreapp3.1\AplicandoPrincipiosSOLID.exe
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\AplicandoPrincipiosSOLID\bin\Debug\netcoreapp3.1\AplicandoPrincipiosSOLID.deps.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\AplicandoPrincipiosSOLID\bin\Debug\netcoreapp3.1\AplicandoPrincipiosSOLID.runtimeconfig.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\AplicandoPrincipiosSOLID\bin\Debug\netcoreapp3.1\AplicandoPrincipiosSOLID.runtimeconfig.dev.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\AplicandoPrincipiosSOLID\bin\Debug\netcoreapp3.1\AplicandoPrincipiosSOLID.dll
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\AplicandoPrincipiosSOLID\bin\Debug\netcoreapp3.1\AplicandoPrincipiosSOLID.pdb
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\AplicandoPrincipiosSOLID\obj\Debug\netcoreapp3.1\AplicandoPrincipiosSOLID.csproj.AssemblyReference.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\AplicandoPrincipiosSOLID\obj\Debug\netcoreapp3.1\AplicandoPrincipiosSOLID.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\AplicandoPrincipiosSOLID\obj\Debug\netcoreapp3.1\AplicandoPrincipiosSOLID.AssemblyInfoInputs.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\AplicandoPrincipiosSOLID\obj\Debug\netcoreapp3.1\AplicandoPrincipiosSOLID.AssemblyInfo.cs
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\AplicandoPrincipiosSOLID\obj\Debug\netcoreapp3.1\AplicandoPrincipiosSOLID.csproj.CoreCompileInputs.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\AplicandoPrincipiosSOLID\obj\Debug\netcoreapp3.1\AplicandoPrincipiosSOLID.dll
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\AplicandoPrincipiosSOLID\obj\Debug\netcoreapp3.1\AplicandoPrincipiosSOLID.pdb
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\AplicandoPrincipiosSOLID\obj\Debug\netcoreapp3.1\AplicandoPrincipiosSOLID.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c+/xKe/Ai6fTLbNtk8jJjNhkRuJZDHc9kpyr8OhocoARddbAf8YP0KPazH2MeBC7Dx+h5d+avW28T+l5aGixwA==",
+  "success": true,
+  "projectFilePath": "E:\\Repositórios GITHUB\\Macoratti\\MacorattiSOLID\\SingleResponsabilityPrinciple\\SingleResponsabilityPrinciple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathan Cirillo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

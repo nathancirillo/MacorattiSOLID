@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e8NWEioUq9+A45qjS6LPNDAgcCKgblYk8nOcpwo/IMz97fXx/PfIfSdWzXMeay8gwEFLbinUL072eDAq8AuIUQ==",
+  "success": true,
+  "projectFilePath": "E:\\Repositórios GITHUB\\Macoratti\\MacorattiSOLID\\UpCastingDownCasting\\UpCastingDownCasting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathan Cirillo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

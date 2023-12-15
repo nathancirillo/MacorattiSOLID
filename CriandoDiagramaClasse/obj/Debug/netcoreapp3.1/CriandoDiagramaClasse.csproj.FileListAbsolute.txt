@@ -1,0 +1,14 @@
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\CriandoDiagramaClasse\bin\Debug\netcoreapp3.1\CriandoDiagramaClasse.exe
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\CriandoDiagramaClasse\bin\Debug\netcoreapp3.1\CriandoDiagramaClasse.deps.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\CriandoDiagramaClasse\bin\Debug\netcoreapp3.1\CriandoDiagramaClasse.runtimeconfig.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\CriandoDiagramaClasse\bin\Debug\netcoreapp3.1\CriandoDiagramaClasse.runtimeconfig.dev.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\CriandoDiagramaClasse\bin\Debug\netcoreapp3.1\CriandoDiagramaClasse.dll
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\CriandoDiagramaClasse\bin\Debug\netcoreapp3.1\CriandoDiagramaClasse.pdb
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\CriandoDiagramaClasse\obj\Debug\netcoreapp3.1\CriandoDiagramaClasse.csproj.AssemblyReference.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\CriandoDiagramaClasse\obj\Debug\netcoreapp3.1\CriandoDiagramaClasse.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\CriandoDiagramaClasse\obj\Debug\netcoreapp3.1\CriandoDiagramaClasse.AssemblyInfoInputs.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\CriandoDiagramaClasse\obj\Debug\netcoreapp3.1\CriandoDiagramaClasse.AssemblyInfo.cs
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\CriandoDiagramaClasse\obj\Debug\netcoreapp3.1\CriandoDiagramaClasse.csproj.CoreCompileInputs.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\CriandoDiagramaClasse\obj\Debug\netcoreapp3.1\CriandoDiagramaClasse.dll
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\CriandoDiagramaClasse\obj\Debug\netcoreapp3.1\CriandoDiagramaClasse.pdb
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\CriandoDiagramaClasse\obj\Debug\netcoreapp3.1\CriandoDiagramaClasse.genruntimeconfig.cache

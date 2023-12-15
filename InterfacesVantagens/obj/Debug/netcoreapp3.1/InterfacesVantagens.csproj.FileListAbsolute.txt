@@ -1,0 +1,14 @@
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\InterfacesVantagens\bin\Debug\netcoreapp3.1\InterfacesVantagens.exe
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\InterfacesVantagens\bin\Debug\netcoreapp3.1\InterfacesVantagens.deps.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\InterfacesVantagens\bin\Debug\netcoreapp3.1\InterfacesVantagens.runtimeconfig.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\InterfacesVantagens\bin\Debug\netcoreapp3.1\InterfacesVantagens.runtimeconfig.dev.json
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\InterfacesVantagens\bin\Debug\netcoreapp3.1\InterfacesVantagens.dll
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\InterfacesVantagens\bin\Debug\netcoreapp3.1\InterfacesVantagens.pdb
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\InterfacesVantagens\obj\Debug\netcoreapp3.1\InterfacesVantagens.csproj.AssemblyReference.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\InterfacesVantagens\obj\Debug\netcoreapp3.1\InterfacesVantagens.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\InterfacesVantagens\obj\Debug\netcoreapp3.1\InterfacesVantagens.AssemblyInfoInputs.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\InterfacesVantagens\obj\Debug\netcoreapp3.1\InterfacesVantagens.AssemblyInfo.cs
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\InterfacesVantagens\obj\Debug\netcoreapp3.1\InterfacesVantagens.csproj.CoreCompileInputs.cache
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\InterfacesVantagens\obj\Debug\netcoreapp3.1\InterfacesVantagens.dll
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\InterfacesVantagens\obj\Debug\netcoreapp3.1\InterfacesVantagens.pdb
+E:\Repositórios GITHUB\Macoratti\MacorattiSOLID\InterfacesVantagens\obj\Debug\netcoreapp3.1\InterfacesVantagens.genruntimeconfig.cache
